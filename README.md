@@ -78,6 +78,7 @@ I have no idea what you are talking about
 
 ## How to run the project
 
-Download the file with a .py Extension.
+Download the file with a .py Extension and run it with python3.
+
 
 
